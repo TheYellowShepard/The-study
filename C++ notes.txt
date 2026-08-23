@@ -1,0 +1,49 @@
+-- // is used for adding comments
+
+-- Libraries go to the top
+
+-- C++ is case sensitive, for example the keyword for outputting is cout.
+
+-- If you were to type Cout or COUT the compiler woild not recognise that the intended function is cout
+
+-- Every C++ program must have a function called main(), this main() function houses all of the instructions for the program, and is where all the code will be written
+
+-- The Hello.cpp file uses cout, aka "see out" to send the text [Hello World] to the terminal for output
+
+-- The return statement is used to end a function, if the program reaches this statement returning a value of 0 is an indication to the OS that the code executed successfully. *This is optional*
+
+-- C++ programs allow for use of white space to create more readable code. the compiler ignores itt with the exception of *if statements*
+
+-- C++ is a compiling language so you must write the program, save the program, compile via the terminal, and execute via the terminal and repeat.
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
+
+-- 
